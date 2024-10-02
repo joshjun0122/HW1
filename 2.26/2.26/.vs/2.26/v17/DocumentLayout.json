@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josh9\\OneDrive\\\u684C\u9762\\HW1\\2.26\\2.26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3695D9-2D16-468E-9830-EBAC75F538A8}|2.26\\2.26.vcxproj|C:\\Users\\josh9\\OneDrive\\\u684C\u9762\\HW1\\2.26\\2.26\\2.26\\2.26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A3695D9-2D16-468E-9830-EBAC75F538A8}|2.26\\2.26.vcxproj|solutionrelative:2.26\\2.26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2.26.cpp",
+              "DocumentMoniker": "C:\\Users\\josh9\\OneDrive\\\u684C\u9762\\HW1\\2.26\\2.26\\2.26\\2.26.cpp",
+              "RelativeDocumentMoniker": "2.26\\2.26.cpp",
+              "ToolTip": "C:\\Users\\josh9\\OneDrive\\\u684C\u9762\\HW1\\2.26\\2.26\\2.26\\2.26.cpp",
+              "RelativeToolTip": "2.26\\2.26.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-02T05:34:45.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
